@@ -1,5 +1,10 @@
-# Clash Verge 客户端使用指南
+# 使用过程中的问题，联系客服
+# 使用不满意，联系客服退款
+# 退款规则：退款=月费-月费➗30*已使用天数   即退剩余未使用
+# 仅适用于跨境，AI。其他用途推荐用便宜机场
+# 警告：禁止用于发布任何政治言论
 
+# Clash Verge 客户端使用指南
 ## 步骤一：安装 Clash Verge
 
 1. 前往 [Clash Verge 官方 GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases) 下载最新版本
